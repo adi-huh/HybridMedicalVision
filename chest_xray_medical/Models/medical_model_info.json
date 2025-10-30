@@ -1,0 +1,18 @@
+{
+    "config": {
+        "data_dir": "data",
+        "batch_size": 16,
+        "num_epochs": 20,
+        "num_workers": 0,
+        "device": "mps",
+        "model_type": "basic",
+        "model_name": "densenet121-res224-all",
+        "freeze_backbone": true,
+        "grayscale": true
+    },
+    "val_accuracy": 81.25,
+    "test_accuracy": 87.84,
+    "training_time": 1183.5219798088074,
+    "total_params": 7605762,
+    "trainable_params": 658178
+}
