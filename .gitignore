@@ -1,0 +1,18 @@
+# Virtual Environment
+venv/
+
+# Large model files
+yolov8x.pt
+*.so
+*.dylib
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
