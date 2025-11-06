@@ -1,0 +1,6 @@
+{
+    "model_type": "MedicalPretrainedModel",
+    "num_classes": 2,
+    "input_size": 224,
+    "channels": 1
+}
