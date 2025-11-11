@@ -16,3 +16,8 @@ __pycache__/
 
 # OS files
 .DS_Store
+# Runtime logs and caches
+server.log
+chest_xray_medical/server.log
+*.log
+*.py[cod]
