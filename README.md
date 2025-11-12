@@ -14,13 +14,12 @@ license: MIT license
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://huggingface.co/spaces/Adi3003/medical-ct-xray-analyzer)
 
-A hybrid AI system for detecting anomalies in chest CT scans and X-rays using advanced deep learning.
+A hybrid AI system for detecting anomalies in chest X-rays using advanced deep learning.
 
 ## Features
 
 **Medical Imaging Analysis**
-- Chest X-ray classification (Normal / Pneumonia detection)  
-- CT scan anomaly detection  
+- Chest X-ray classification (Normal / Pneumonia detection)    
 - High-accuracy predictions with confidence scoring  
 - Support for medical screening workflows  
 
@@ -39,7 +38,7 @@ A hybrid AI system for detecting anomalies in chest CT scans and X-rays using ad
 
 ## Usage
 
-1. Upload an image (X-ray, CT scan, or general image)  
+1. Upload an image (X-ray, or general image)  
 2. Click the **Analyze** button  
 3. Review the classification results and confidence scores  
 
