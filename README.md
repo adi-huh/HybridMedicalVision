@@ -12,7 +12,7 @@ license: MIT license
 
 # Medical CT & X-Ray Analyzer
 
-A hybrid AI system for detecting anomalies in chest CT scans and X-rays using advanced deep learning.
+A hybrid AI system for detecting anomalies in Lungs X-rays using advanced deep learning.
 
 ## Features
 
