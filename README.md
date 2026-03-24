@@ -10,15 +10,15 @@ pinned: false
 license: MIT license
 ---
 
-# Medical CT & X-Ray Analyzer
+# Medical X-Ray Analyzer
 
 A hybrid AI system for detecting anomalies in Lungs X-rays using advanced deep learning.
 
+Live Link:- https://huggingface.co/spaces/Adi-huh/medical-ct-xray-analyzer
 ## Features
 
 **Medical Imaging Analysis**
 - Chest X-ray classification (Normal/Pneumonia detection)
-- CT scan anomaly detection
 - High-accuracy predictions with confidence scoring
 - Support for medical screening workflows
 
@@ -37,7 +37,7 @@ A hybrid AI system for detecting anomalies in Lungs X-rays using advanced deep l
 
 ## Usage
 
-1. Upload an image (X-ray, CT scan, or general image)
+1. Upload an image (X-ray, or general image)
 2. Click the **Analyze** button
 3. Review the classification results and confidence scores
 
